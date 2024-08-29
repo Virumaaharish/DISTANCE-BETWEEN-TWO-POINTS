@@ -10,10 +10,10 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 ### Step 5: 
 ### PROGRAM:
-  
-
+![Screenshot 2024-08-29 183958](https://github.com/user-attachments/assets/5b018aa6-99fd-4478-a035-950e49e58a47)
 
 ### OUTPUT:
-
+![Screenshot 2024-08-29 184017](https://github.com/user-attachments/assets/128edfea-8f5b-42d2-b827-fc2a321e9bd6)
 
 ### RESULT:
+By this program we able to find the distance between two points.
